@@ -176,7 +176,6 @@ class PackageManagerBenchmark:
 name = "benchmark"
 version = "0.1.0"
 description = ""
-authors = ["Benchmark <benchmark@example.com>"]
 
 [tool.poetry.dependencies]
 python = "^3.10"
