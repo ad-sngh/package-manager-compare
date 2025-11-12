@@ -1,0 +1,9 @@
+# Development dependencies for running benchmarks
+# These are only needed to run the benchmark script itself
+
+# For data analysis (optional)
+pandas>=2.0.0
+matplotlib>=3.7.0
+
+# For better output formatting (optional)
+rich>=13.0.0
